@@ -1,5 +1,6 @@
 function Home() {
-    return <h1>Bom dia grupo! ❤️😁</h1>
+    return <h1> Salve quebrada! ❤️😁👌</h1>
+
 }
 
 export default Home;
