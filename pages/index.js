@@ -1,6 +1,5 @@
 function Home() {
-    return <h1> Salve quebrada! ❤️😁👌</h1>
-
+    return <h1>Correção de publicações erradas 😎</h1>
 }
 
 export default Home;
